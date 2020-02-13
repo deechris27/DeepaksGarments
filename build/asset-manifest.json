@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DeepaksGarments/static/css/main.a7362222.chunk.css",
+    "main.js": "/DeepaksGarments/static/js/main.ddda6ba6.chunk.js",
+    "main.js.map": "/DeepaksGarments/static/js/main.ddda6ba6.chunk.js.map",
+    "runtime-main.js": "/DeepaksGarments/static/js/runtime-main.25878166.js",
+    "runtime-main.js.map": "/DeepaksGarments/static/js/runtime-main.25878166.js.map",
+    "static/js/2.fdcf797b.chunk.js": "/DeepaksGarments/static/js/2.fdcf797b.chunk.js",
+    "static/js/2.fdcf797b.chunk.js.map": "/DeepaksGarments/static/js/2.fdcf797b.chunk.js.map",
+    "index.html": "/DeepaksGarments/index.html",
+    "precache-manifest.71f4fe3a8c41ed28e5fe1a68fd9f3077.js": "/DeepaksGarments/precache-manifest.71f4fe3a8c41ed28e5fe1a68fd9f3077.js",
+    "service-worker.js": "/DeepaksGarments/service-worker.js",
+    "static/css/main.a7362222.chunk.css.map": "/DeepaksGarments/static/css/main.a7362222.chunk.css.map",
+    "static/js/2.fdcf797b.chunk.js.LICENSE": "/DeepaksGarments/static/js/2.fdcf797b.chunk.js.LICENSE",
+    "static/media/horse-logo.9eba4e47.svg": "/DeepaksGarments/static/media/horse-logo.9eba4e47.svg",
+    "static/media/shopping-bag.11ef3e55.svg": "/DeepaksGarments/static/media/shopping-bag.11ef3e55.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25878166.js",
+    "static/js/2.fdcf797b.chunk.js",
+    "static/css/main.a7362222.chunk.css",
+    "static/js/main.ddda6ba6.chunk.js"
+  ]
+}
