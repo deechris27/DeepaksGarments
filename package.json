@@ -2,7 +2,7 @@
   "name": "dee-garments",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://deechris27.github.io/DeepaksGarments",
+  "homepage": "https://deechris27.github.io/signIn",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
